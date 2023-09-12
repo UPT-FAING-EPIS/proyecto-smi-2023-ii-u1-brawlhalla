@@ -5,3 +5,6 @@ Integrantes:
 - Rene Manuel Poma Manchego
 - Victor Eleazar Aguilar Pinto
 - Jhon Romario Poma Chura
+- Oswaldo Chino Conde
+
+
