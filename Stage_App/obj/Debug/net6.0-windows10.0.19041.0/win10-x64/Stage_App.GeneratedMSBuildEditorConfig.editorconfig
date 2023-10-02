@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Stage_App
+build_property.ProjectDir = g:\SolMovil\netmaui-main\netmaui-main\Stage_App\
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/Views/ListadoOrganizadores.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.Views.ListadoOrganizadores.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ListadoOrganizadores.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ListadoOrganizadores.xaml
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/Views/Organizador.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.Views.Organizador.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Organizador.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Organizador.xaml
+
+[g:/SolMovil/netmaui-main/netmaui-main/Stage_App/Views/Templates/ItemsAlumnos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Stage_App.Views.Templates.ItemsAlumnos.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\ItemsAlumnos.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\ItemsAlumnos.xaml

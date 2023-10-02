@@ -1,0 +1,12 @@
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Stage_App.csproj.AssemblyReference.cache
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+g:\SolMovil\netmaui-main\netmaui-main\Stage_App\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\Stage_App.GeneratedMSBuildEditorConfig.editorconfig
