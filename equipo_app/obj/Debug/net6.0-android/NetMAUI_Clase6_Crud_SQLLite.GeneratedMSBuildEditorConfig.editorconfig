@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = equipo_app
+build_property.ProjectDir = c:\Personal\Repositorio\netmaui-main\equipo_app\
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/Views/Equipo.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.Views.Equipo.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Equipo.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Equipo.xaml
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/Views/ListadoEquipos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.Views.ListadoEquipos.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ListadoEquipos.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ListadoEquipos.xaml
+
+[c:/Personal/Repositorio/netmaui-main/equipo_app/Views/Templates/ItemsEquipos.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = equipo_app.Views.Templates.ItemsEquipos.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Templates\ItemsEquipos.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Templates\ItemsEquipos.xaml

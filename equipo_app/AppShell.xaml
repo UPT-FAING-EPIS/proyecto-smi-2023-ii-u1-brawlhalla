@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="equipo_app.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:equipo_app"
+    xmlns:v="clr-namespace:equipo_app.Views"
+    Shell.FlyoutBehavior="Flyout">
+
+    <ShellContent
+        Title="Listar"
+        ContentTemplate="{DataTemplate v:ListadoEquipos}"
+        Route="ListadoEquipos" />
+    <ShellContent
+        Title="Nuevo Equipo"
+        ContentTemplate="{DataTemplate v:equipo}"
+        Route="Equipo" />
+
+
+
+</Shell>

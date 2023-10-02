@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="equipo_app.Views.ListadoEquipos"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:mo="clr-namespace:NetMAUI_Clase6_Crud_SQLLite.Models"
+    xmlns:te="clr-namespace:NetMAUI_Clase6_Crud_SQLLite.Views.Templates"
+    xmlns:vm="clr-namespace:NetMAUI_Clase6_Crud_SQLLite.ViewModels"
+    Title="Listado de Equipos"
+    x:DataType="vm:EquiposViewModels">
+    <Grid RowDefinitions="100,*,50">
+        <HorizontalStackLayout HorizontalOptions="Center">
+            <ImageButton
+                Padding="0,10,0,0"
+                Command="{Binding ListarEquiposCommand}"
+                IsVisible="{Binding IsReady}"
+                Source="list.png" />
+            <ImageButton
+                Padding="0,10,0,0"
+                Command="{Binding AddNewCommand}"
+                Source="addnew.png" />
+        </HorizontalStackLayout>
+        <Frame
+            Grid.Row="1"
+            Margin="10"
+            Background="{StaticResource Gray100}"
+            HorizontalOptions="Center">
+            <RefreshView Command="{Binding ListarEquiposCommand}" IsRefreshing="{Binding IsRefreshing}">
+                <CollectionView
+                    x:Name="collectionView"
+                    BindingContext="{Binding Equipos}"
+                    ItemsSource="{Binding}">
+                    <CollectionView.ItemTemplate>
+                        <DataTemplate>
+                            <te:ItemsEquipos />
+                        </DataTemplate>
+                    </CollectionView.ItemTemplate>
+                    <CollectionView.EmptyView>
+                        <Label BackgroundColor="Azure" Text="Sin datos para mostrar" />
+                    </CollectionView.EmptyView>
+                </CollectionView>
+            </RefreshView>
+        </Frame>
+
+    </Grid>
+
+
+
+</ContentPage>
