@@ -61,4 +61,24 @@ Integrantes:
     4. Facilitar la administración de equipos y jugadores.
     5. Probar y depurar la aplicación para garantizar su funcionamiento óptimo.
 ## Desarrollo de la propuesta
-### Diagrama de la propuesta
+### Diagramas de Casos de Uso
+![casos de uso](https://github.com/UPT-FAING-EPIS/proyecto-smi-2023-ii-u1-brawlhalla/assets/81704042/1a63dc73-3212-4d43-95a1-6e7dc8a3f627)
+
+### Diagrama de Clases
+![diagrama de clases](https://github.com/UPT-FAING-EPIS/proyecto-smi-2023-ii-u1-brawlhalla/assets/81704042/a94f8f59-2813-4103-a83a-b4c7afe09712)
+
+### Arquitectura
+![arquitectura](https://github.com/UPT-FAING-EPIS/proyecto-smi-2023-ii-u1-brawlhalla/assets/81704042/718c3e65-84d8-4c54-a543-a30ec786359f)
+
+### Diagrama de Base de Datos
+![base de datos](https://github.com/UPT-FAING-EPIS/proyecto-smi-2023-ii-u1-brawlhalla/assets/81704042/495cbd38-74b9-484e-840a-3d8cc6e9c27d)
+
+## Bibliografia
+
+* ¿Qué es .NET MAUI? - .NET MAUI. (s/f). Microsoft.com. Recuperado el 7 de octubre de 2023, de
+https://learn.microsoft.com/es-es/dotnet/maui/what-is-maui
+
+* v-trmyl. (s/f). Enlazar bibliotecas nativas para .NET MAUI. Microsoft.com. Recuperado el 9 de octubre de 2023, de https://learn.microsoft.com/es-es/events/dotnetconf-focus-on-maui/bi nding-native-libraries-for-dotnet-maui
+* v-trmyl. (s/f). Enlazar bibliotecas nativas para .NET MAUI. Microsoft.com. Recuperado el 9 de octubre de 2023, de https://learn.microsoft.com/es-es/events/dotnetconf-focus-on-maui/bi nding-native-libraries-for-dotnet-maui
+* Universidad Israel. (2021, octubre 11). MAUI .Net. UISRAEL. https://www.uisrael.edu.ec/maui-net/
+
